@@ -1,0 +1,55 @@
+body {
+    font-family: arial, roboto;
+    font-size: 12px;
+    font-weight: 400px;
+    margin-left: 100px;
+
+}
+.outer-border {
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    height: 1123px;
+    width: 738px;
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: rgb(227, 237, 247);
+}
+.horizontal-line {
+    border-style: none;
+    width: 600px;
+}
+.body-content {
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.my-name {
+    color: black;
+    font-size: 30px;
+    font-weight: 400px;
+}
+.role,
+.skills-heading,
+.education-heading,
+.across-internet,
+.experience {
+    font-weight: 600px;
+    color: green;
+    font-size: 18px;
+}
+.duration {
+    font-size: 12px;
+}
+
+.details,
+.main-experience,
+.skill-set,
+.personal-links {
+    color: black;
+    font-size: 14px;
+    font-weight: 450px;
+    font-family: arial;
+}
+
+
+
